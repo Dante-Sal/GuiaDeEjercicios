@@ -12,3 +12,7 @@ El entrenamiento funcional consiste en ejercicios que imitan movimientos cotidia
 1. Realiza ejercicios que involucren varios grupos musculares (como sentadillas o levantamientos).
 2. Mantén un ritmo constante.
 3. Realiza entre 3 y 5 series de 10-15 repeticiones.
+
+## Consejos
+- Mantén el core activado durante todos los ejercicios.
+- Realiza ejercicios que se adapten a tu vida diaria.
