@@ -12,3 +12,7 @@ El boxeo es una disciplina que mejora la fuerza, la velocidad y la resistencia a
 1. Realiza ejercicios de sombra o en saco de boxeo.
 2. Mantén una postura adecuada y mueve los pies.
 3. Realiza series de golpes rápidos, seguidas de descansos.
+
+## Consejos
+- Asegúrate de usar guantes adecuados.
+- Concéntrate en la técnica, no solo en la fuerza.
