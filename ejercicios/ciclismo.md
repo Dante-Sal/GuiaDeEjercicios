@@ -7,3 +7,8 @@ El ciclismo es una actividad cardiovascular que se puede realizar en interiores 
 - Aumenta la capacidad cardiovascular.
 - Fortalece las piernas y los glúteos.
 - Quema calorías de manera eficiente.
+
+## Instrucciones
+1. Realiza un calentamiento de 5-10 minutos.
+2. Mantén un ritmo constante durante 30-60 minutos.
+3. Enfría con un pedaleo suave.
