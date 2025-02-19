@@ -12,3 +12,7 @@ El pilates se enfoca en el fortalecimiento del core, la postura y la flexibilida
 1. Realiza ejercicios controlados de respiración y movimiento.
 2. Concéntrate en la alineación y la postura.
 3. Realiza 10-15 repeticiones de cada ejercicio.
+
+## Consejos
+- Mantén una respiración profunda y controlada.
+- Realiza los movimientos lentamente para maximizar los beneficios.
